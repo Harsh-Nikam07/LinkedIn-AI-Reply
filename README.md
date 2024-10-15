@@ -1,4 +1,4 @@
-Uploading harsh nikam - coding assignment linkedin ai reply.mp4…
+https://github.com/user-attachments/assets/a986b7b3-d5b4-4101-a105-dcb80c75bade
 
 
 # ‘LinkedIn AI Reply’ Chrome Extension
