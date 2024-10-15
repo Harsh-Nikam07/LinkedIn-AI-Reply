@@ -1,6 +1,4 @@
-[‘LinkedIn AI Reply’ Chrome Extension](https://youtu.be/k7TKDAQ9VK8)
-
-
+<iframe width="560" height="315" src="https://youtu.be/k7TKDAQ9VK8" frameborder="0" allowfullscreen></iframe>
 
 # ‘LinkedIn AI Reply’ Chrome Extension
 
