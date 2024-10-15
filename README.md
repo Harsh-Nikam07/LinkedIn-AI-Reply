@@ -1,4 +1,4 @@
-<iframe width="560" height="315" src="https://youtu.be/k7TKDAQ9VK8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/abc123XYZ" frameborder="0" allowfullscreen></iframe>
 
 # ‘LinkedIn AI Reply’ Chrome Extension
 
